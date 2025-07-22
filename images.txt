@@ -1,7 +1,7 @@
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-prom/prometheus:latest
-oliver006/redis-exporter:latest
-rafana/grafana:latest
+#prom/prometheus:latest
+#oliver006/redis-exporter:latest
+grafana/grafana:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
