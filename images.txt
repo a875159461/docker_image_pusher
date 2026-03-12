@@ -7,6 +7,7 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #mysql:8.0
-chatwoot/chatwoot:latest
-pgvector/pgvector:pg16
-redis:alpine
+#chatwoot/chatwoot:latest
+#pgvector/pgvector:pg16
+#redis:alpine
+confluentinc/cp-kafka:latest
